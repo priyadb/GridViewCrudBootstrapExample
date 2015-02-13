@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridViewCRUDBootstrapExample", "GridViewCRUDBootstrapExample\GridViewCRUDBootstrapExample.csproj", "{D2969DAC-1414-4CA9-85E0-E1ECB281A986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2969DAC-1414-4CA9-85E0-E1ECB281A986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2969DAC-1414-4CA9-85E0-E1ECB281A986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2969DAC-1414-4CA9-85E0-E1ECB281A986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2969DAC-1414-4CA9-85E0-E1ECB281A986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
